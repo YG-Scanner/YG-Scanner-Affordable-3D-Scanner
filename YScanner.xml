@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YScanner>
+    <Line1>
+        <Long>9a9182ec76d8534680d34f91de4e367e</Long>
+        <ring>216e1d32a99aC</ring>
+        <low>61ac068ff45D</low>
+        <high>19163718a472</high>
+        <mid>d34e910C</mid>
+    </Line1>
+    <Line2>
+        <Long>68a4d682daf2fbda362a392161efc178</Long>
+        <ring>1e7f113d425aC</ring>
+        <low>629e9239683C</low>
+        <high>1e64df18a5ef</high>
+        <mid>d17af40C</mid>
+    </Line2>
+    <Line3>
+        <Long>44ccc19282ca79be6e95695dcfbba7ac</Long>
+        <ring>1db65c33a412C</ring>
+        <low>683737b3fdcC</low>
+        <high>1928de18a50c</high>
+        <mid>d292430C</mid>
+    </Line3>
+    <Line4>
+        <Long>ef3f1a0bd7b95fba48e62d2367569116</Long>
+        <ring>21510b3cf449C</ring>
+        <low>615b17c30dbD</low>
+        <high>1e7e5c18a472</high>
+        <mid>d34e900C</mid>
+    </Line4>
+    <Line5>
+        <Long>4cc8425ed66da4dbcd3208a8973fd46c</Long>
+        <ring>1de0653b9c45C</ring>
+        <low>644220131349D</low>
+        <high>1e6b1d18a472</high>
+        <mid>d34e910C</mid>
+    </Line5>
+</YScanner>
