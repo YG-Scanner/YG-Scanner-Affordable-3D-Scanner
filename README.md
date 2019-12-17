@@ -1,2 +1,2 @@
-# YScanner-Affordable-3D-Scanner
-YScanner-Affordable 3D Scanner
+# YG-Scanner-Affordable-3D-Scanner
+YG-Scanner-Affordable 3D Scanner
